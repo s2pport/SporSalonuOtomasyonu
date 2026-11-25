@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SporSalonu.BLL/SporSalonu.BLL.csproj" Id="40a84407-3988-4dd3-ab00-afa1d413c763" />
+  <Project Path="SporSalonu.DAL/SporSalonu.DAL.csproj" Id="e2ee735f-1e12-4208-8a86-3a6e56054fa4" />
+  <Project Path="SporSalonu.Entities/SporSalonu.Entities.csproj" Id="85c23c44-fb7c-461e-a017-465c973c5eb2" />
+  <Project Path="SporSalonu.UI/SporSalonu.UI.csproj" Id="41de48ad-9e2e-438e-83bc-715fd3a599bf" />
+</Solution>
